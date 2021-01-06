@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Jessica Jiang 👋
+| 掘金 |
+| ---- |
+| [点我直达](https://juejin.cn/user/2990280511857416) |
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JCHappytime/JCHappytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
