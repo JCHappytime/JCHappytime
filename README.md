@@ -5,7 +5,7 @@
 - I'm currently working on front-end developing (Vue). In my spare time, I like studying awesome layout.
 - I'm currently learning source code about lodash and ready to share in this repo [Lodash-Source-Code-Analyse](https://github.com/JCHappytime/Lodash-Source-Code-Analyse). If you have any novel idea, welcome to new issue and commit your idea to this repo.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JCHappytime/JCHappytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
