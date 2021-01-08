@@ -1,4 +1,4 @@
-### Hi there, I'm Jessica Jiang. Welcome to my Github. 👋
+### Hi there, I'm Jessica Jiang. Welcome to my home page. 👋
 This is my blog website.
 
 | 掘金blog |
