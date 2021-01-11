@@ -1,3 +1,6 @@
+### My GitHub contributions as a Game of Life
+[![GitHub Game of Life](https://github4life.herokuapp.com/JCHappytime.gif)](https://github4life.herokuapp.com/JCHappytime)
+
 ### Hi there, I'm Jessica Jiang. Welcome to my home page. 👋👋👋
 This is my blog website.
 
@@ -23,7 +26,6 @@ My coding time as following:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCHappytime)](https://github.com/anuraghazra/github-readme-stats)
 
-### My GitHub contributions as a Game of Life
 
 
 <!--
