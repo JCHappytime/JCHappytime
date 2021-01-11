@@ -1,8 +1,9 @@
+## Hi there, I'm Jessica Jiang. Welcome to my home page. 👋👋👋
+
 ### My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JCHappytime.gif)](https://github4life.herokuapp.com/JCHappytime)
 
-### Hi there, I'm Jessica Jiang. Welcome to my home page. 👋👋👋
-This is my blog website.
+### This is my blog website.
 
 | 掘金blog📫 |
 | ---- |
