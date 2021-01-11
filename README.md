@@ -23,6 +23,9 @@ My coding time as following:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JCHappytime)](https://github.com/anuraghazra/github-readme-stats)
 
+### My GitHub contributions as a Game of Life
+
+
 <!--
 **JCHappytime/JCHappytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
