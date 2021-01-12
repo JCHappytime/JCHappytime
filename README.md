@@ -5,7 +5,7 @@
 
 ### This is my blog website.
 
-| 掘金blog📫 |
+| 掘金blog |
 | ---- |
 | [Click me](https://juejin.cn/user/2990280511857416)❤️ |
 
