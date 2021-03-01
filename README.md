@@ -9,7 +9,7 @@
 | ---- |
 | [Click me](https://juejin.cn/user/2990280511857416)❤️ |
 
-- 🔭 我现在正在从事前端开发相关工作（Vue），在我闲暇的时间我喜欢浏览博客、关注一些非常棒的样式、以及比较前沿的前端技术。
+- 🔭 我现在正在从事前端开发相关工作（Vue），在我闲暇的时间我喜欢浏览博客、关注一些非常棒的样式、一些前沿的前端技术。
 - 🌱 我也在研究Lodash的源码，目前只是起步，请查看[Lodash-Source-Code-Analyse](https://github.com/JCHappytime/Lodash-Source-Code-Analyse)。
 - 📫 如何找到我？邮件Jessica_Jiang_92@163.com❤️
 
