@@ -18,7 +18,7 @@
 **PS:**<br /> Because I planed maintain my Github last year(2020), there are some problems in my projects. If you found, please let me known by leaving comments.
 Any suggestions are welcome! 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JCHappytime&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 My usual languages as following:
 
