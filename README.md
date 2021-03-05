@@ -3,7 +3,6 @@
 ### My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JCHappytime.gif)](https://github4life.herokuapp.com/JCHappytime)
 
-### blog
 
 | 掘金blog |
 | ---- |
