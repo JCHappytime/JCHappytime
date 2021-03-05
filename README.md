@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### My GitHub contributions as a Game of Life
+## GitHub contributions
 [![GitHub Game of Life](https://github4life.herokuapp.com/JCHappytime.gif)](https://github4life.herokuapp.com/JCHappytime)
 
-
+## blog
 | 掘金blog |
 | ---- |
 | [Click me](https://juejin.cn/user/2990280511857416) |
