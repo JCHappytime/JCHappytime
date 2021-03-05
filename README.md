@@ -1,13 +1,13 @@
-## Hi there, I'm Jessica Jiang. Welcome to my home page. 👋
+## Hi there 👋
 
 ### My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/JCHappytime.gif)](https://github4life.herokuapp.com/JCHappytime)
 
-### This is my blog website.
+### blog
 
 | 掘金blog |
 | ---- |
-| [Click me](https://juejin.cn/user/2990280511857416)❤️ |
+| [Click me](https://juejin.cn/user/2990280511857416) |
 
 - 🔭 我现在正在从事前端开发相关工作（Vue），在我闲暇的时间我喜欢浏览博客、关注一些非常棒的样式、一些前沿的前端技术。
 
